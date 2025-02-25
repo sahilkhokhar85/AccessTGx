@@ -1,5 +1,7 @@
 Just updated the repo ✨ I've created `telegram.py` housing all functions for easier usage.
 
+If you're unfamiliar with programming or don't want the hassle of installing Python and setting things up, you can use [`TgLiszt`](https://teletype.in/@stellarstars/H3S7uDgpNnf) app to generate your Telegram session easily.
+
 Check out 🤖 [`MyOTP!`](https://www.t.me/myotprobot) telegram bot for easy login using a Telethon session string.
 
 
@@ -24,6 +26,6 @@ Check out 🤖 [`MyOTP!`](https://www.t.me/myotprobot) telegram bot for easy log
 Once installed, you can import and use all the available functions from the `telegram.py` in your project. See example file how to import it.
 
 ## Helpful Resources
-- [YT itslizt](https://www.youtube.com/@_nft)
+- [YT itslizt](https://www.youtube.com/@itsliszt)
 - [Telethon Documentation](https://docs.telethon.dev/en/stable/basic/quick-start.html)
 - [Pyrogram Documentation](https://docs.pyrogram.org/intro/quickstart)
